@@ -94,7 +94,7 @@
             <li class="col-md-4" data-content="#colio_c2">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-archive"></i>
                 <h5>Cloud Migration</h5>
-                <p>Sometime, your business application may require operational support, re-architecting, or re-platforming.</p>
+                <p>Sometime, your business application may require operational support, re-architecting, or re-platforming.</p><br>
                 </a> </article>
             </li>
             
@@ -102,7 +102,7 @@
             <li class="col-md-4" data-content="#colio_c3">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-shield"></i>
                 <h5>Salesforces</h5>
-                <p>You need to provide them with personalized services, incredible experience, and faster response.</p>
+                <p>You need to provide them with personalized services, incredible experience, and faster response.</p><br>
                 </a> </article>
             </li>
             
@@ -110,7 +110,7 @@
             <li class="col-md-4" data-content="#colio_c4">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-rocket"></i>
                 <h5>Mobile Aplication</h5>
-                <p>Developing a well-organized and optimized mobile app for your business.</p>
+                <p>Developing a well-organized and optimized mobile app for your business.</p><br>
                 </a> </article>
             </li>
             
@@ -118,7 +118,7 @@
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
                 <h5>IoT</h5>
-                <p>By leveraging automation, cloud network, and smart devices, IoT provides a lot of opportunities to boost productivity along with better efficiency.</p>
+                <p>By leveraging automation, cloud network, and smart devices to boost productivity along with better efficiency.</p>
                 </a> </article>
             </li>
             
@@ -144,7 +144,7 @@
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Consultant</h5>
-                <p>The valuable consulting services of the experts help in delivering optimum IT solutions for the effective functioning of a business.</p>
+                <p>Delivering optimum IT solutions for the effective functioning of a business.</p><br>
                 </a> </article>
             </li>
             <li class="col-md-4" data-content="#colio_c6">
@@ -152,6 +152,12 @@
                 <h5>Design</h5>
                 <p>An effective software design helps in better maintenance of software.</p>
                 </a> </article>
+            </li>
+            <li class="col-md-4" data-content="#colio_c6">
+              
+            </li>
+            <li class="col-md-4" data-content="#colio_c6">
+              
             </li>
           </ul>
         </div>
@@ -202,7 +208,7 @@
                   <div class="heading text-left margin-bottom-40">
                     <h4>Cloud Migration</h4>
                   </div>
-                  <p> Cloud migration is quite complicated, and it's more than just lift and shift. Sometime, your business application may require operational support, re-architecting, or re-platforming. There can be a lot of reasons. Regardless of the reasons for migrating to the cloud platform, we have solutions for you. At Smart-Tech Enterprise Solution Pty Ltd, we have experts who have completed hundreds of cloud migrations. With us, you can effectively migrate the workload from virtually any source and start enjoying the benefits of the hybrid cloud. The migration process will be quick and error-free.<br><br>
+                  <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cloud migration is quite complicated, and it's more than just lift and shift. Sometime, your business application may require operational support, re-architecting, or re-platforming. There can be a lot of reasons. Regardless of the reasons for migrating to the cloud platform, we have solutions for you. At Smart-Tech Enterprise Solution Pty Ltd, we have experts who have completed hundreds of cloud migrations. With us, you can effectively migrate the workload from virtually any source and start enjoying the benefits of the hybrid cloud. The migration process will be quick and error-free.<br><br>
 
                   Wants to enjoy the maximum benefits of the cloud? It’s time to choose our cloud migration service. Our expert can handle, AWS, Azure cloud migration, and the Google Cloud Platform. They have expertise in Office 365, server management, managed SQL, and phone system. Under this, you will enjoy other services like platform migration, data migration, application migration, infrastructure migration, and more.</p>
 
@@ -210,11 +216,11 @@
                   <ul class="bullet_list">
                     <li>Shift to the cloud platform, faster</li>
                   </ul>
-                  <p>Work with us, use our proven blueprints, automation experts, and practical solutions to move to the desired cloud platform quickly without any issues.<br><br></p>
+                  <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work with us, use our proven blueprints, automation experts, and practical solutions to move to the desired cloud platform quickly without any issues.<br><br></p>
                   <ul class="bullet_list">
                     <li>Lower risk of migration</li>
                   </ul>
-                  <p>We work with the DevSecOps approach and can move your business to the cloud without affecting your current business operation, along with ensuring governance.<br><br>
+                  <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>We work with the DevSecOps approach and can move your business to the cloud without affecting your current business operation, along with ensuring governance.<br><br>
 
 
                   We can help you in maximizing your cloud investment and create a robust IT environment through the integration of new technologies.<br></p>

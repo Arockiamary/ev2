@@ -289,7 +289,6 @@ $ser='<!-- SERVICES -->
           </div>
         </div>
       </div>
-    </section>
   </div>
 
    <!-- Security Tab Open -->
@@ -324,7 +323,6 @@ $ser='<!-- SERVICES -->
           </div>
         </div>
       </div>
-    </section>
   </div>
 
    <!-- Security Tab Open -->
@@ -360,7 +358,6 @@ $ser='<!-- SERVICES -->
           </div>
         </div>
       </div>
-    </section>
   </div>
 
    <!-- Security Tab Open -->
@@ -386,7 +383,6 @@ $ser='<!-- SERVICES -->
           </div>
         </div>
       </div>
-    </section>
   </div>
 
    <!-- Security Tab Open -->
