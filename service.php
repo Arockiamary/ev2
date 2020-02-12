@@ -92,7 +92,7 @@ $ser='<!-- SERVICES -->
           <div class="container">
             <div class="inside-colio">
               <div class="row">
-                <div class="col-md-8"> 
+                <div class="col-md-8"> </div>
                   <!-- Heading -->
                   <div class="heading text-left margin-bottom-40">
                     <h4>Manage Service Provider</h4>
@@ -110,9 +110,12 @@ $ser='<!-- SERVICES -->
                     <li>Connectivity</li>
                     <li>Cloud and More</li><br><br>
                   </ul>
-                  <p  style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let us handle your IT services, and you just focus on your daily operations.</p>
+                  <p  style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let us handle your IT services, and you just focus on your daily operations.</p>
                   <!--<a href="#." class="btn btn-1 margin-top-30 margin-right-20">Contact Now <i class="fa fa-caret-right"></i></a> <a href="#." class="btn btn-1 margin-top-30">View Services <i class="fa fa-caret-right"></i></a>--> </div>
-                <div class="col-md-4 text-right"> <img class="img-responsive" src="images/ipad.png" alt=""> </div>
+                    <div class="col-md-4 text-right"> <img class="img-responsive" src="images/ipad.png" alt="">
+                    </div>
+               
               </div>
             </div>
           </div>
@@ -131,7 +134,8 @@ $ser='<!-- SERVICES -->
                   <div class="heading text-left margin-bottom-40">
                     <h4>Cloud Migration</h4>
                   </div>
-                  <p  style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cloud migration is quite complicated, and it is more than just lift and shift. Sometime, your business application may require operational support, re-architecting, or re-platforming. There can be a lot of reasons. Regardless of the reasons for migrating to the cloud platform, we have solutions for you. At Smart-Tech Enterprise Solution Pty Ltd, we have experts who have completed hundreds of cloud migrations. With us, you can effectively migrate the workload from virtually any source and start enjoying the benefits of the hybrid cloud. The migration process will be quick and error-free.<br><br>
+                  <p  style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cloud migration is quite complicated, and it is more than just lift and shift. Sometime, your business application may require operational support, re-architecting, or re-platforming. There can be a lot of reasons. Regardless of the reasons for migrating to the cloud platform, we have solutions for you. At Smart-Tech Enterprise Solution Pty Ltd, we have experts who have completed hundreds of cloud migrations. With us, you can effectively migrate the workload from virtually any source and start enjoying the benefits of the hybrid cloud. The migration process will be quick and error-free.<br><br>
 
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wants to enjoy the maximum benefits of the cloud? It’s time to choose our cloud migration service. Our expert can handle, AWS, Azure cloud migration, and the Google Cloud Platform. They have expertise in Office 365, server management, managed SQL, and phone system. Under this, you will enjoy other services like platform migration, data migration, application migration, infrastructure migration, and more.</p>
 
@@ -139,11 +143,13 @@ $ser='<!-- SERVICES -->
                   <ul class="bullet_list">
                     <li>Shift to the cloud platform, faster</li>
                   </ul>
-                  <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work with us, use our proven blueprints, automation experts, and practical solutions to move to the desired cloud platform quickly without any issues.<br><br></p>
+                  <p style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Work with us, use our proven blueprints, automation experts, and practical solutions to move to the desired cloud platform quickly without any issues.<br><br></p>
                   <ul class="bullet_list">
                     <li>Lower risk of migration</li>
                   </ul>
-                  <p  style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We work with the DevSecOps approach and can move your business to the cloud without affecting your current business operation, along with ensuring governance.<br><br>
+                  <p  style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We work with the DevSecOps approach and can move your business to the cloud without affecting your current business operation, along with ensuring governance.<br><br>
 
 
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We can help you in maximizing your cloud investment and create a robust IT environment through the integration of new technologies.<br></p>
@@ -170,7 +176,8 @@ $ser='<!-- SERVICES -->
                   <div class="heading text-left margin-bottom-40">
                     <h4>Salesforces</h4>
                   </div>
-                  <p  style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Combining your business processes with your systems in order to get a single view of your customers is not just an ideal practice, but also an analytical technique to stay competitive in today’s digital environment. The digital landscape is a perfect way to attain the highest level of customer success. You need to provide them with personalized services, incredible experience, and faster response. For this, you need a solution which can put your customers at the center. You can go for Smart-Tech Enterprise Solution Pty Ltd.’s Salesforce services. In general, it is a customer relationship management solution that helps in bringing the companies and customers together. This will bring the most out of your Salesforce implementation to boost your sales, customer services, and productivity.
+                  <p  style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Combining your business processes with your systems in order to get a single view of your customers is not just an ideal practice, but also an analytical technique to stay competitive in today’s digital environment. The digital landscape is a perfect way to attain the highest level of customer success. You need to provide them with personalized services, incredible experience, and faster response. For this, you need a solution which can put your customers at the center. You can go for Smart-Tech Enterprise Solution Pty Ltd.’s Salesforce services. In general, it is a customer relationship management solution that helps in bringing the companies and customers together. This will bring the most out of your Salesforce implementation to boost your sales, customer services, and productivity.
                     <br><br>
 
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Starting from pre-implementation to post-implementation, our experts will work with you and will transform your business aims into KPIs and technical requirements to help you in achieving the desired result from the Salesforce investment. We, at Smart-Tech Enterprise Solution Pvt Ltd., have successfully implemented solutions that effectively incorporate various Salesforce Clouds. We have extensive expertise in all types of Salesforce products and can extend it throughout the whole digital value chain. This can cover B2B, external apps, B2C business, and more. Some of the key benefits of our Salesforce services are:
@@ -200,7 +207,9 @@ $ser='<!-- SERVICES -->
                   <div class="heading text-left margin-bottom-40">
                     <h4>Mobile Application</h4>
                   </div>
-                  <p  style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you want to develop a well-organized and correctly optimized mobile app for your business? You can always trust the Smart-Tech Enterprise Solution Pvt Ltd for this. We let you transform your imagination into reality. Our team has extensive experience in designing and developing mobile applications for both iOS and Android platforms. We provide you with insightful expertise in application development by crafting your mobile application that will seamlessly work across platforms. At Smart-Tech Enterprise Solution, we design and develop hybrid mobile apps, cross-platform native mobile applications, and progressive web application. You will get scalable, sustainable, and secure solutions with us. As the completion is increasing, you need to delight your customers with curated experiences which can exceed their expectation. An app with excellent usability can do this.<br><br>
+                  <p  style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do you want to develop a well-organized and correctly optimized mobile app for your business? You can always trust the Smart-Tech Enterprise Solution Pvt Ltd for this. We let you transform your imagination into reality. Our team has extensive experience in designing and developing mobile applications for both iOS and Android platforms. We provide you with insightful expertise in application development by crafting your mobile application that will seamlessly work across platforms. At Smart-Tech Enterprise Solution, we design and develop hybrid mobile apps, cross-platform native mobile applications, and progressive web application. You will get scalable, sustainable, and secure solutions with us. As the completion is increasing, you need to delight your customers with curated experiences which can exceed their expectation. An app with excellent usability can do this.<br><br>
+                  
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We craft blazing-fast and smooth mobile applications that will consume minimum resources. The app will operate at the same speed, even if there are thousands of users. Industries that we serve in mobile application services are social network, food & restaurant, medical & healthcare, e-commerce, transport & automotive, enterprise, education & learning, media, entertainment, banking & finance, travel & hospitality, and more. Get in touch with us now, and develop a perfect app for your business. Some of the reasons to work with Smart-Tech Enterprise Solution are:<br><br></p>
 
                   <ul>
@@ -231,7 +240,8 @@ $ser='<!-- SERVICES -->
                   <div class="heading text-left margin-bottom-40">
                     <h4>IoT</h4>
                   </div>
-                  <p  style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It has been observed that companies are now shifting toward digital transformation with IoT. By leveraging automation, cloud network, and smart devices, IoT provides a lot of opportunities to boost productivity along with better efficiency, customer experience, and lower costs. But when it comes to deploying IoT solutions, companies face various challenges, and one of the significant challenges is integrating networks, cloud platforms, and devices in a secure and compliant manner.<br><br>
+                  <p  style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It has been observed that companies are now shifting toward digital transformation with IoT. By leveraging automation, cloud network, and smart devices, IoT provides a lot of opportunities to boost productivity along with better efficiency, customer experience, and lower costs. But when it comes to deploying IoT solutions, companies face various challenges, and one of the significant challenges is integrating networks, cloud platforms, and devices in a secure and compliant manner.<br><br>
 
                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you are dealing with the same issues, it time to get in touch with Smart-Tech Enterprise Solution Pty Ltd. It is not an easy task to add new technologies to embedded design. For example, Wi-Fi. It is fast and wireless, but sometimes it can encounter various issues, such as security vulnerabilities and power consumption. Let’s our experts to handle your IoT tasks. We help the companies to enjoy a seamless IoT adoption process.<br><br> </p>
                   <ul class="bullet_list">
@@ -260,14 +270,16 @@ $ser='<!-- SERVICES -->
                   <div class="heading text-left margin-bottom-40">
                     <h4>Web Application</h4>
                   </div>
-                  <p  style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A responsive web application is essential for the growth of any business. The web application is the modern solution to make the transactions of the companies simple and easy for their respective customers. At Smart-Tech Enterprise Solutions Pty Ltd, we offer top-notch solutions for different web applications. Our team of experts has the best knowledge and experience with the latest technologies of the web application. We help in developing web applications for different businesses and provide them an over their competitors.<br><br>
+                  <p  style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A responsive web application is essential for the growth of any business. The web application is the modern solution to make the transactions of the companies simple and easy for their respective customers. At Smart-Tech Enterprise Solutions Pty Ltd, we offer top-notch solutions for different web applications. Our team of experts has the best knowledge and experience with the latest technologies of the web application. We help in developing web applications for different businesses and provide them an over their competitors.<br><br>
 
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We have expertise in all the various aspects of web applications and help businesses enhance their customer experiences. We employ the best methodologies and deliver web application services within the deadlines without compromising on the quality in any case. We offer well-tested and secure solutions for dynamic web applications, e-commerce applications, and membership site applications.<br><br>We provide scalable and flexible web application solutions to benefit the best to different business clients. Our web application development approaches include:<br><br> </p>
                   <ul class="bullet_list">
                     <li>Progressive web apps</li>
                     <li>Single-page apps</li>
                   </ul>
-                  <p  style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schedule reports to automatically run and distribute on a regular interval – daily, weekly or monthly. You can also trigger reports to send based on set alerts (did the budget get exceeded?). Tailor reports to your needs, save your scheduled tasks, then sit back and relax while Jet Reports does the work for you. Like magic!<br><br>
+                  <p  style="text-align: justify;">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schedule reports to automatically run and distribute on a regular interval – daily, weekly or monthly. You can also trigger reports to send based on set alerts (did the budget get exceeded?). Tailor reports to your needs, save your scheduled tasks, then sit back and relax while Jet Reports does the work for you. Like magic!<br><br>
 
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our team carefully listens and analyses your unique requirements and develop robust web applications. You can easily streamline your daily operations and fulfill your targeted goals.</p>
                   <a href="#." class="btn btn-1 margin-top-30 margin-right-20">Contact Now <i class="fa fa-caret-right"></i></a> <a href="#." class="btn btn-1 margin-top-30">View Services <i class="fa fa-caret-right"></i></a> </div>

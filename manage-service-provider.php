@@ -181,7 +181,7 @@
                     <li>Connectivity</li>
                     <li>Cloud and More</li><br><br>
                   </ul>
-                  <p>Let us handle your IT services, and you just focus on your daily operations.</p>
+                  <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let us handle your IT services, and you just focus on your daily operations.</p>
                   <!--<a href="#." class="btn btn-1 margin-top-30 margin-right-20">Contact Now <i class="fa fa-caret-right"></i></a> <a href="#." class="btn btn-1 margin-top-30">View Services <i class="fa fa-caret-right"></i></a>--> </div>
                 <div class="col-md-4 text-right"> <img class="img-responsive" src="images/ipad.png" alt=""> </div>
               </div>

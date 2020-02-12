@@ -72,11 +72,11 @@
             <div class="col-md-6">
               <h3 class="font-normal">who we are</h3>
               <h6>Pushing out limits to provide the highest quality services</h6>
-              <p>It is true that no matter what type of business you have, to keep it running, you need to deal with a lot of works. But you don’t have enough hours to carry out all those works. We, Smart-Tech Enterprise Solutions Pty Ltd, offer high-quality and end-to-end managed IT services and help you to keep your business functional. Established in December 2018 in Australia, we have been providing professionally organized IT solutions across the world. Your in-house IT experts may be able to deal with small issues, but when it comes to handling major IT issues, you may need the help of a team of experts. This is where you can get into touch with Smart-Tech Enterprise Solutions Pvt Ltd.<br><br>
+              <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is true that no matter what type of business you have, to keep it running, you need to deal with a lot of works. But you don’t have enough hours to carry out all those works. We, Extraviz Enterprise Solutions Pty Ltd, offer high-quality and end-to-end managed IT services and help you to keep your business functional. Established in December 2018 in Australia, we have been providing professionally organized IT solutions across the world. Your in-house IT experts may be able to deal with small issues, but when it comes to handling major IT issues, you may need the help of a team of experts. This is where you can get into touch with Extraviz Enterprise Solutions Pvt Ltd.<br><br>
 
-Besides managed IT services, we also deal with software and web development, 3D, 2D designs, AR, VR, professional video editing, and more. When you work with us, all the IT services are managed by our highly-professional team. The core purpose of Smart-Tech Enterprise is to offer sophisticated IT and digital solutions tailored to the requirements of your company. Our expertise can be seen across a wide range of various industries, such as airlines, healthcare, manufacturing more. As a reputed, organized service provider, we cover all types of IT services. Our solutions will set up your business for better success and growth for now as well as for the future.<br><br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Besides managed IT services, we also deal with software and web development, 3D, 2D designs, AR, VR, professional video editing, and more. When you work with us, all the IT services are managed by our highly-professional team. The core purpose of Extraviz Enterprise is to offer sophisticated IT and digital solutions tailored to the requirements of your company. Our expertise can be seen across a wide range of various industries, such as airlines, healthcare, manufacturing more. As a reputed, organized service provider, we cover all types of IT services. Our solutions will set up your business for better success and growth for now as well as for the future.<br><br>
 
-With us, you will be able to enjoy different professional IT Services. For more information, you can contact us directly and talk with one of our professional representatives. Explore our site to know more about our services.</p>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With us, you will be able to enjoy different professional IT Services. For more information, you can contact us directly and talk with one of our professional representatives. Explore our site to know more about our services.</p>
             </div>
             <div class="col-md-6"> 
               
@@ -139,7 +139,7 @@ With us, you will be able to enjoy different professional IT Services. For more 
                 <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
                 <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">October 21, 1907</span>
                   <h5 class="title">Jack Sharp is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
+                  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
                 </div>
               </div>
             </li>
@@ -148,7 +148,7 @@ With us, you will be able to enjoy different professional IT Services. For more 
                 <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
                 <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">November 21, 1914</span>
                   <h5 class="title">Jack Sharp is die</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
+                  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
                 </div>
               </div>
             </li>
@@ -157,7 +157,7 @@ With us, you will be able to enjoy different professional IT Services. For more 
                 <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
                 <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">January 11, 1917</span>
                   <h5 class="title">Jane Sharp is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
+                  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
                 </div>
               </div>
             </li>
@@ -166,7 +166,7 @@ With us, you will be able to enjoy different professional IT Services. For more 
                 <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
                 <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">October 15, 1948</span>
                   <h5 class="title">Phoebus Euandro start</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
+                  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
                 </div>
               </div>
             </li>
@@ -184,7 +184,7 @@ With us, you will be able to enjoy different professional IT Services. For more 
                 <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
                 <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">June 18, 1968</span>
                   <h5 class="title">Angie Gutierren is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
+                  <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
                 </div>
               </div>
             </li>
@@ -193,7 +193,7 @@ With us, you will be able to enjoy different professional IT Services. For more 
                 <div class="history-thumbnail col-lg-6 col-lg-offset-1 col-md-6 col-md-offset-1 col-sm-7 col-sm-offset-0"> <img src="images/time-line-img.jpg" alt=""> </div>
                 <div class="history-content col-lg-5 col-md-5 col-sm-5"> <span class="date">October 24, 1971</span>
                   <h5 class="title">John Doe is born</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
+                  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab quos, minus iste eum distinctio illum aliquam perferendis delectus quo voluptatum accusamus velit sequi culpa, quibusdam, temporibus eligendi, doloremque itaque voluptates.</p>
                 </div>
               </div>
             </li>
