@@ -54,16 +54,16 @@ $navi='<header>
             <li> <a href="about.php">About Us</a> </li>
             <li> <a href="services(ver1).php">Services </a>
               <ul class="dropdown">
-                <li> <a href="services(ver1).php">Manage Service Provider</a> </li>
-                <li> <a href="services(ver2).php">Cloud Migration</a> </li>
-                <li> <a href="services(ver3).php">Salesforces</a> </li>
-                <li> <a href="services(ver4).php">Mobile Application <br> (iOS & Android)</a> </li>
-                <li> <a href="services(ver5).php">IoT</a> </li>
-                <li> <a href="services(stories).php">Custom App Development</a> </li>
-                <li> <a href="services(stories).php">Web Application</a> </li>
-                <li> <a href="services(annual-reports)_draft02.php">Web Sites</a> </li>
-                <li> <a href="services(media-relations)_draft02.php">Consultant</a> </li>
-                <li> <a href="services-left-sidebar(annual-report-single)_draft02.php">Design</a> </li>
+                <li> <a href="manage-service-provider.php">Manage Service Provider</a> </li>
+                <li> <a href="cloud-migration.php">Cloud Migration</a> </li>
+                <li> <a href="salesforces.php">Salesforces</a> </li>
+                <li> <a href="mobile-application.php">Mobile Application <br> (iOS & Android)</a> </li>
+                <li> <a href="iot.php">IoT</a> </li>
+                <li> <a href="custom-app.php">Custom App Development</a> </li>
+                <li> <a href="web-application.php">Web Application</a> </li>
+                <li> <a href="web-sites.php">Web Sites</a> </li>
+                <li> <a href="consultant.php">Consultant</a> </li>
+                <li> <a href="design.php">Design</a> </li>
                 
               </ul>
             </li>

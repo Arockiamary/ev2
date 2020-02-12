@@ -72,13 +72,11 @@
             <div class="col-md-6">
               <h3 class="font-normal">who we are</h3>
               <h6>Pushing out limits to provide the highest quality services</h6>
-              <p>Donec venenatis, turpis vel hendrerit interdum, dui ligula ultricies purus, sed posuere libero dui id orci. Nam congue, pede vitae dapibus aliquet, elit magna vulputate arcu, vel tempus metus leo non est. <br>
-                <br>
-                Etiam sit amet lectus quis est congue mollis. Phasellus congue lacus eget neque. Phasellus ornare, ante vitae consectetuer consequat, purus sapien ultricies dolor, et mollis pede metus eget nisi.
-                
-                 <br><br>
+              <p>It is true that no matter what type of business you have, to keep it running, you need to deal with a lot of works. But you don’t have enough hours to carry out all those works. We, Smart-Tech Enterprise Solutions Pty Ltd, offer high-quality and end-to-end managed IT services and help you to keep your business functional. Established in December 2018 in Australia, we have been providing professionally organized IT solutions across the world. Your in-house IT experts may be able to deal with small issues, but when it comes to handling major IT issues, you may need the help of a team of experts. This is where you can get into touch with Smart-Tech Enterprise Solutions Pvt Ltd.<br><br>
 
-                Phasellus ornare, ante vitae consectetuer consequat, purus sapien ultricies dolor,</p>
+Besides managed IT services, we also deal with software and web development, 3D, 2D designs, AR, VR, professional video editing, and more. When you work with us, all the IT services are managed by our highly-professional team. The core purpose of Smart-Tech Enterprise is to offer sophisticated IT and digital solutions tailored to the requirements of your company. Our expertise can be seen across a wide range of various industries, such as airlines, healthcare, manufacturing more. As a reputed, organized service provider, we cover all types of IT services. Our solutions will set up your business for better success and growth for now as well as for the future.<br><br>
+
+With us, you will be able to enjoy different professional IT Services. For more information, you can contact us directly and talk with one of our professional representatives. Explore our site to know more about our services.</p>
             </div>
             <div class="col-md-6"> 
               

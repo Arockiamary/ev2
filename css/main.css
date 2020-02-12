@@ -9142,3 +9142,9 @@ padding:0;
 .color-switcher.position .theme-colours {
 	box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
+ul.bullet_list{
+	padding-left: 50px;
+}
+.bullet_list li{
+list-style: circle !important;
+}
