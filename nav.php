@@ -51,7 +51,7 @@ $navi='<header>
           <ul class="nav ownmenu">
             <li class="active"> <a href="index.php">Home </a> </li>
             
-            <li> <a href="about.php">About </a> </li>
+            <li> <a href="about.php">About Us</a> </li>
             <li> <a href="services(ver1).php">Services </a>
               <ul class="dropdown">
                 <li> <a href="services(ver1).php">Manage Service Provider</a> </li>
@@ -68,8 +68,8 @@ $navi='<header>
               </ul>
             </li>
             
-            <li> <a href="blog.php">Blog </a></li>
-            <li> <a href="contact.php">Contact</a> </li>
+            <li> <a href="blog.php">Clients </a></li>
+            <li> <a href="contact.php">Contact Us</a> </li>
           </ul>
           <!-- Search -->
           <div class="search-icon"> <a href="#."><i class="fa fa-search"></i></a>

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="M_Adnan">
-<title>IOD - Corporate HTML5 Template</title>
+<title>Extraviz Solution Pvt Limited</title>
 
 <!-- Favicon -->
 <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.ico">
@@ -43,150 +43,7 @@
 <!-- Wrap -->
 <div id="wrap"> 
  
- <!-- <header> 
-    
-    
-    <div class="top-bar">
-      <div class="top-info">
-        <div class="container">
-          <ul class="personal-info">
-            <li>
-              <p><i class="fa fa-phone"></i> +1 123 456 7890 </p>
-            </li>
-            <li>
-              <p>Hi! Here comes custom txt line </p>
-            </li>
-            <li>
-              <p>example@example.com </p>
-            </li>
-          </ul>
-          
-          
-          <div class="right-sec"> 
-            
-            
-            <select class="selectpicker">
-              <option>English</option>
-              <option>French</option>
-              <option>Relish</option>
-            </select>
-            
-            
-            <ul class="social">
-              <li><a href="#."><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#."><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#."><i class="fa fa-google"></i></a></li>
-              <li><a href="#."><i class="fa fa-linkedin"></i></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    
-    <nav class="navbar">
-      <div class="sticky">
-        <div class="container"> 
-          
-          
-          <div class="logo"> <a href="index.html"><img  class="img-responsive" src="images/logo.png" alt="" ></a> </div>
-          
-          <ul class="nav ownmenu">
-            <li class="active"> <a href="index.html">Home </a> </li>
-            <li> <a href="index.html">Pages </a>
-              <ul class="dropdown">
-                <li> <a href="about.html">About</a> </li>
-                <li> <a href="shop.html">Shop</a>
-                  <ul class="dropdown">
-                    <li> <a href="shop.html">Shop</a> </li>
-                    <li> <a href="shop-single.html">Shop Single</a> </li>
-                    <li> <a href="checkout-step1.html">Checkout Step1</a> </li>
-                    <li> <a href="checkout-step2.html">Checkout Step2</a> </li>
-                    <li> <a href="checkout-step3.html">Checkout Step3</a> </li>
-                    <li> <a href="checkout-address(step2).html">Checkout Address(step2)</a> </li>
-                  </ul>
-                </li>
-                <li> <a href="services(ver1).html">Services </a>
-                  <ul class="dropdown">
-                    <li> <a href="services(ver1).html">Management Services</a> </li>
-                    <li> <a href="services(ver2).html">Services Version 2</a> </li>
-                    <li> <a href="services(ver3).html">Services Version 3</a> </li>
-                    <li> <a href="services(ver4).html">Services Version 4</a> </li>
-                    <li> <a href="services(ver5).html">Services Version 5</a> </li>
-                    <li> <a href="services(stories).html">Services Stories</a> </li>
-                    <li> <a href="services(annual-reports)_draft02.html">Services Annual Reports</a> </li>
-                    <li> <a href="services(media-relations)_draft02.html">Services Media Relations</a> </li>
-                    <li> <a href="services-left-sidebar(annual-report-single)_draft02.html">Annual Left Report Single</a> </li>
-                    <li> <a href="services-right-sidebar(annual-report-single)_draft02.html">Annual Right Report Single</a> </li>
-                  </ul>
-                </li>
-                <li> <a href="team-2-columns.html">Team </a>
-                  <ul class="dropdown">
-                    <li> <a href="team-2-columns.html">Team 2 </a> </li>
-                    <li> <a href="team-3-columns.html">Team 3</a> </li>
-                    <li> <a href="team-4-columns.html">Team 4</a> </li>
-                  </ul>
-                </li>
-                <li> <a href="jobs-left-sidebar.html">Jobs </a>
-                  <ul class="dropdown">
-                    <li> <a href="jobs-right-sidebar.html">Jobs Right </a></li>
-                    <li> <a href="jobs-left-sidebar.html">Jobs Left</a></li>
-                    <li> <a href="jobs(single)-left-sidebar.html">Jobs (single) Left Sidebar </a></li>
-                    <li> <a href="jobs(single)-right-sidebar.html">Jobs (single) Right Sidebar </a></li>
-                  </ul>
-                </li>
-                <li> <a href="revenues.html">Revenues </a></li>
-                <li> <a href="company-presentation.html">Company Presentation</a></li>
-                <li> <a href="blog.html">Blog </a></li>
-                <li> <a href="blog-single.html">Blog Single </a></li>
-                <li> <a href="contact.html">Contact</a></li>
-              </ul>
-            </li>
-            <li> <a href="about.html">About </a> </li>
-            <li> <a href="services(ver1).html">Services </a>
-              <ul class="dropdown">
-                <li> <a href="services(ver1).html">Services Version 1</a> </li>
-                <li> <a href="services(ver2).html">Services Version 2</a> </li>
-                <li> <a href="services(ver3).html">Services Version 3</a> </li>
-                <li> <a href="services(ver4).html">Services Version 4</a> </li>
-                <li> <a href="services(ver5).html">Services Version 5</a> </li>
-                <li> <a href="services(stories).html">Services Stories</a> </li>
-                <li> <a href="services(stories).html">Services Stories</a> </li>
-                <li> <a href="services(annual-reports)_draft02.html">Services Annual Reports</a> </li>
-                <li> <a href="services(media-relations)_draft02.html">Services Media Relations</a> </li>
-                <li> <a href="services-left-sidebar(annual-report-single)_draft02.html">Annual Left Report Single</a> </li>
-                <li> <a href="services-right-sidebar(annual-report-single)_draft02.html">Annual Right Report Single</a> </li>
-              </ul>
-            </li>
-            <li> <a href="team-2-columns.html">Team </a>
-              <ul class="dropdown">
-                <li> <a href="team-2-columns.html">Team 2 Columns</a> </li>
-                <li> <a href="team-3-columns.html">Team 3 Columns</a> </li>
-                <li> <a href="team-4-columns.html">Team 4 Columns</a> </li>
-              </ul>
-            </li>
-            <li> <a href="jobs-left-sidebar.html">Jobs </a>
-              <ul class="dropdown">
-                <li> <a href="jobs-right-sidebar.html">Jobs Right Sidebar </a></li>
-                <li> <a href="jobs-left-sidebar.html">Jobs Left Sidebar </a></li>
-                <li> <a href="jobs(single)-left-sidebar.html">Jobs (single) Left Sidebar </a></li>
-                <li> <a href="jobs(single)-right-sidebar.html">Jobs (single) Right Sidebar </a></li>
-              </ul>
-            </li>
-            <li> <a href="blog.html">Blog </a></li>
-            <li> <a href="contact.html">Contact</a> </li>
-          </ul>
-          
-          <div class="search-icon"> <a href="#."><i class="fa fa-search"></i></a>
-            <form>
-              <input class="form-control" type="search" placeholder="Type Here">
-              <button type="submit"><i class="fa fa-search"></i></button>
-            </form>
-          </div>
-        </div>
-      </div>
-    </nav>
-  </header>-->
+ 
   <?php
   include('nav.php');
   echo $navi;
@@ -202,16 +59,16 @@
       <!-- SLIDER 1 -->
       <li class="slide-img-1" data-stellar-background-ratio="0.6">
         <div class="position-center-center">
-          <h1>Information on Demand</h1>
-          <h5>Truly Corporate Theme</h5>
+          <h1>WELCOME TO THE EXTRAVIZ</h1>
+          <h5>WE STAND BEHIND YOUR SUCCESS</h5>
           <a href="#." class="btn margin-top-30">Read More <i class="fa fa-caret-right"></i></a> </div>
       </li>
       
       <!-- SLIDER 2 -->
       <li class="slide-img-2" data-stellar-background-ratio="0.6">
         <div class="position-center-center">
-          <h1>iod HTML5 template</h1>
-          <h5>Truly Corporate Theme</h5>
+          <h1>WELCOME TO THE EXTRAVIZ</h1>
+          <h5>WE STAND BEHIND YOUR SUCCESS</h5>
           <a href="#." class="btn margin-top-30">Read More <i class="fa fa-caret-right"></i></a> </div>
       </li>
     </ul>
@@ -275,15 +132,15 @@
             <!-- Worth -->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
-                <h5>Custom App Development</h5>
-                <p>Investing in custom app development is a significant investment for long-term success.</p>
+                <h5>Web APllication</h5>
+                <p>A responsive web application is essential for the growth of any business.</p>
                 </a> </article>
             </li>
             <!-- Worth -->
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
-                <h5>Web Application</h5>
-                <p>A responsive web application is essential for the growth of any business.</p>
+                <h5>Custom App Development</h5>
+                <p>Investing in custom app development is a significant investment for long-term success.</p>
                 </a> </article>
             </li>
             <!-- Worth -->
