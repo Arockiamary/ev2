@@ -82,7 +82,7 @@
         <!-- Row -->
         <div class="container">
           <ul class="row list">
-            <!-- Analytics -->
+            <!-- Manage service Provider -->
             <li class="col-md-4" data-content="#colio_c1">
               <article class="thumb"> <a class="button colio-link" href="#"> <i class="fa fa-bar-chart"></i>
                 <h5>Manage Serivice Provider</h5>
@@ -90,7 +90,7 @@
                 </a> </article>
             </li>
             
-            <!-- Storage -->
+            <!-- Cloud Migration -->
             <li class="col-md-4" data-content="#colio_c2">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-archive"></i>
                 <h5>Cloud Migration</h5>
@@ -98,7 +98,7 @@
                 </a> </article>
             </li>
             
-            <!-- Security -->
+            <!-- Salesforces -->
             <li class="col-md-4" data-content="#colio_c3">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-shield"></i>
                 <h5>Salesforces</h5>
@@ -106,7 +106,7 @@
                 </a> </article>
             </li>
             
-            <!-- Worth -->
+            <!-- Mobile Application -->
             <li class="col-md-4" data-content="#colio_c4">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-rocket"></i>
                 <h5>Mobile Aplication</h5>
@@ -114,7 +114,7 @@
                 </a> </article>
             </li>
             
-            <!-- Worth -->
+            <!-- IoT -->
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
                 <h5>IoT</h5>
@@ -122,43 +122,53 @@
                 </a> </article>
             </li>
             
-            <!-- Worth -->
+            <!-- Web Application-->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Web Application</h5>
                 <p>Investing in custom app development is a significant investment for long-term success.</p>
                 </a> </article>
             </li>
+
+            <!-- Custom App Development -->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Custom App Development</h5>
                 <p>Investing in custom app development is a significant investment for long-term success.</p>
                 </a> </article>
             </li>
+
+            <!-- Web Sites-->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Web Sites</h5>
                 <p>Websites play an essential role in increasing the global reach of different companies.</p>
                 </a> </article>
             </li>
+
+            
+            <!-- Consultant-->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Consultant</h5>
                 <p>Delivering optimum IT solutions for the effective functioning of a business.</p><br>
                 </a> </article>
             </li>
+
+            <!--<li class="col-md-4" data-content="#colio_c6">
+              
+            </li>
+            <li class="col-md-4" data-content="#colio_c6">
+              
+            </li>-->
+
+            <!-- Design-->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Design</h5>
                 <p>An effective software design helps in better maintenance of software.</p>
                 </a> </article>
-            </li>
-            <li class="col-md-4" data-content="#colio_c6">
-              
-            </li>
-            <li class="col-md-4" data-content="#colio_c6">
-              
-            </li>
+           
           </ul>
         </div>
       </div>
@@ -277,11 +287,11 @@
                   <div class="heading text-left margin-bottom-40">
                     <h4>Mobile Application</h4>
                   </div>
-                  <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> Do you want to develop a well-organized and correctly optimized mobile app for your business? You can always trust the Smart-Tech Enterprise Solution Pvt Ltd for this. We let you transform your imagination into reality. Our team has extensive experience in designing and developing mobile applications for both iOS and Android platforms. We provide you with insightful expertise in application development by crafting your mobile application that will seamlessly work across platforms. At Smart-Tech Enterprise Solution, we design and develop hybrid mobile apps, cross-platform native mobile applications, and progressive web application. You will get scalable, sustainable, and secure solutions with us. As the completion is increasing, you need to delight your customers with curated experiences which can exceed their expectation. An app with excellent usability can do this.<br><br>
+                  <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do you want to develop a well-organized and correctly optimized mobile app for your business? You can always trust the Smart-Tech Enterprise Solution Pvt Ltd for this. We let you transform your imagination into reality. Our team has extensive experience in designing and developing mobile applications for both iOS and Android platforms. We provide you with insightful expertise in application development by crafting your mobile application that will seamlessly work across platforms. At Smart-Tech Enterprise Solution, we design and develop hybrid mobile apps, cross-platform native mobile applications, and progressive web application. You will get scalable, sustainable, and secure solutions with us. As the completion is increasing, you need to delight your customers with curated experiences which can exceed their expectation. An app with excellent usability can do this.<br><br>
 
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We craft blazing-fast and smooth mobile applications that will consume minimum resources. The app will operate at the same speed, even if there are thousands of users. Industries that we serve in mobile application services are social network, food & restaurant, medical & healthcare, e-commerce, transport & automotive, enterprise, education & learning, media, entertainment, banking & finance, travel & hospitality, and more. Get in touch with us now, and develop a perfect app for your business. Some of the reasons to work with Smart-Tech Enterprise Solution are:<br><br></p>
 
-                  <ul>
+                  <ul class="bullet_list">
                     <li>Extensive knowledge about different SDKs</li>
                     <li>Quickly downloadable mobile applications from App Store and Play Store</li>
                     <li>Years of expertise in development in server-based apps and architecture-based apps
@@ -355,8 +365,8 @@
           </div>
         </div>
       </div>
-    </section>
-  </div>
+   
+ 
 
    <!-- Security Tab Open -->
       <div id="colio_c6" class="colio-content">
@@ -390,8 +400,8 @@
           </div>
         </div>
       </div>
-    </section>
-  </div>
+   
+ 
 
    <!-- Security Tab Open -->
       <div id="colio_c6" class="colio-content">
@@ -426,8 +436,7 @@
           </div>
         </div>
       </div>
-    </section>
-  </div>
+    
 
    <!-- Security Tab Open -->
       <div id="colio_c6" class="colio-content">
@@ -452,9 +461,8 @@
           </div>
         </div>
       </div>
-    </section>
-  </div>
-
+   
+ 
    <!-- Security Tab Open -->
       <div id="colio_c6" class="colio-content">
         <div class="main">

@@ -58,7 +58,7 @@ $ser='<!-- SERVICES -->
                 <p>A responsive web application is essential for the growth of any business.</p><br>
                 </a> </article>
             </li>
-            
+
             <!-- Custom App Development -->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
@@ -82,6 +82,8 @@ $ser='<!-- SERVICES -->
                 <p>Delivering optimum IT solutions for the effective functioning of a business.</p><br>
                 </a> </article>
             </li>
+
+            <li class="col-md-4" data-content="#colio_c6"></li>
 
             <!-- Design -->
             <li class="col-md-4" data-content="#colio_c6">
@@ -297,7 +299,7 @@ $ser='<!-- SERVICES -->
           </div>
         </div>
       </div>
-  </div>
+  
 
    <!-- Security Tab Open -->
       <div id="colio_c6" class="colio-content">
@@ -331,7 +333,7 @@ $ser='<!-- SERVICES -->
           </div>
         </div>
       </div>
-  </div>
+  
 
    <!-- Security Tab Open -->
       <div id="colio_c6" class="colio-content">
@@ -366,7 +368,7 @@ $ser='<!-- SERVICES -->
           </div>
         </div>
       </div>
-  </div>
+  
 
    <!-- Security Tab Open -->
       <div id="colio_c6" class="colio-content">
@@ -391,8 +393,7 @@ $ser='<!-- SERVICES -->
           </div>
         </div>
       </div>
-  </div>
-
+  
    <!-- Security Tab Open -->
       <div id="colio_c6" class="colio-content">
         <div class="main">
