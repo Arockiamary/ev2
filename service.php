@@ -11,75 +11,83 @@ $ser='<!-- SERVICES -->
         <!-- Row -->
         <div class="container">
           <ul class="row list">
-            <!-- Analytics -->
+            <!-- Manage Service Provider -->
             <li class="col-md-4" data-content="#colio_c1">
               <article class="thumb"> <a class="button colio-link" href="#"> <i class="fa fa-bar-chart"></i>
-                <h5>Manage Serivice Provider</h5>
+                <h5>Manage Service Provider</h5>
                 <p>We guarantee you best IT management that will take your business to a new height.</p>
                 </a> </article>
             </li>
             
-            <!-- Storage -->
+            <!-- Cloud Migration -->
             <li class="col-md-4" data-content="#colio_c2">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-archive"></i>
                 <h5>Cloud Migration</h5>
-                <p>Sometime, your business application may require operational support, re-architecting, or re-platforming.</p>
+                <p>Sometime, your business application may require operational support, re-architecting, or re-platforming.</p><br>
                 </a> </article>
             </li>
             
-            <!-- Security -->
+            <!-- Salesforces -->
             <li class="col-md-4" data-content="#colio_c3">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-shield"></i>
                 <h5>Salesforces</h5>
-                <p>You need to provide them with personalized services, incredible experience, and faster response.</p>
+                <p>You need to provide them with personalized services, incredible experience, and faster response.</p><br>
                 </a> </article>
             </li>
             
-            <!-- Worth -->
+            <!-- Mobile Application-->
             <li class="col-md-4" data-content="#colio_c4">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-rocket"></i>
                 <h5>Mobile Aplication</h5>
-                <p>Developing a well-organized and optimized mobile app for your business.</p>
+                <p>Developing a well-organized and optimized mobile app for your business.</p><br>
                 </a> </article>
             </li>
             
-            <!-- Worth -->
+            <!-- Iot -->
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
                 <h5>IoT</h5>
-                <p>By leveraging automation, cloud network, and smart devices, IoT provides a lot of opportunities to boost productivity along with better efficiency.</p>
+                <p>By leveraging automation, cloud network, and smart devices to boost productivity along with better efficiency.</p>
                 </a> </article>
-            </li>
+            </li> 
             
-            <!-- Worth -->
+            <!-- Web Aplication -->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Web Application</h5>
-                <p>Investing in custom app development is a significant investment for long-term success.</p>
+                <p>A responsive web application is essential for the growth of any business.</p><br>
                 </a> </article>
             </li>
+            
+            <!-- Custom App Development -->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Custom App Development</h5>
                 <p>Investing in custom app development is a significant investment for long-term success.</p>
                 </a> </article>
             </li>
+
+            <!-- Web Sites-->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Web Sites</h5>
                 <p>Websites play an essential role in increasing the global reach of different companies.</p>
                 </a> </article>
             </li>
+
+            <!-- Consultant-->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Consultant</h5>
-                <p>The valuable consulting services of the experts help in delivering optimum IT solutions for the effective functioning of a business.</p>
+                <p>Delivering optimum IT solutions for the effective functioning of a business.</p><br>
                 </a> </article>
             </li>
+
+            <!-- Design -->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Design</h5>
-                <p>An effective software design helps in better maintenance of software.</p>
+                <p>An effective software design helps in better maintenance of software.</p><br>
                 </a> </article>
             </li>
           </ul>

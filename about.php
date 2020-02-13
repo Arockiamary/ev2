@@ -301,13 +301,17 @@
       </div>
     </section>
   </div>
+  <?php
+  include('footer.php');
+  echo $foot;
+  ?>
   
-  <!-- FOOTER -->
+  <!-- FOOTER 
   <footer>
     <div class="container">
       <div class="row"> 
         
-        <!-- ABOUT -->
+       
         <div class="col-md-3"> <img src="images/logo-footer.png" alt="" >
           <div class="about-foot">
             <ul>
@@ -324,7 +328,7 @@
           </div>
         </div>
         
-        <!-- Twitter Feed -->
+        
         <div class="col-md-3">
           <h6>Twitter Feed</h6>
           <ul class="tweet">
@@ -337,7 +341,7 @@
           </ul>
         </div>
         
-        <!-- Photostream -->
+        
         <div class="col-md-3">
           <h6>Photostream</h6>
           <ul class="photo-steam">
@@ -350,7 +354,7 @@
           </ul>
         </div>
         
-        <!-- Categories -->
+       
         <div class="col-md-3">
           <h6>Categories</h6>
           <ul class="tags">
@@ -367,9 +371,9 @@
         </div>
       </div>
     </div>
-  </footer>
+  </footer>-->
   
-  <!-- RIGHTS -->
+  
   <div class="rights">
     <div class="container">
       <div class="row">

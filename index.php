@@ -77,19 +77,19 @@
   <!-- Content -->
   <div id="content"> 
     
-    <!-- SERVICES -->
+    <!-- 
     <section class="services padding-top-70 padding-bottom-70">
       <div class="container"> 
-        <!-- Heading -->
+       
         <div class="heading text-center">
           <h4>Our Services</h4>
         </div>
       </div>
       <div class="best-services"> 
-        <!-- Row -->
+       
         <div class="container">
           <ul class="row list">
-            <!-- Analytics -->
+            
             <li class="col-md-4" data-content="#colio_c1">
               <article class="thumb"> <a class="button colio-link" href="#"> <i class="fa fa-bar-chart"></i>
                 <h5>Manage Service Provider</h5>
@@ -97,7 +97,7 @@
                 </a> </article>
             </li>
             
-            <!-- Storage -->
+           
             <li class="col-md-4" data-content="#colio_c2">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-archive"></i>
                 <h5>Cloud Migration</h5>
@@ -105,7 +105,7 @@
                 </a> </article>
             </li>
             
-            <!-- Security -->
+            
             <li class="col-md-4" data-content="#colio_c3">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-shield"></i>
                 <h5>Salesforces</h5>
@@ -113,7 +113,7 @@
                 </a> </article>
             </li>
             
-            <!-- Worth -->
+           
             <li class="col-md-4" data-content="#colio_c4">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-rocket"></i>
                 <h5>Mobile Application</h5>
@@ -121,7 +121,7 @@
                 </a> </article>
             </li>
             
-            <!-- Worth -->
+            
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
                 <h5>IoT</h5>
@@ -129,35 +129,34 @@
                 </a> </article>
             </li>
             
-            <!-- Worth -->
             <li class="col-md-4" data-content="#colio_c6">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-bullhorn"></i>
                 <h5>Web APllication</h5>
                 <p>A responsive web application is essential for the growth of any business.</p>
                 </a> </article>
             </li>
-            <!-- Worth -->
+           
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
                 <h5>Custom App Development</h5>
                 <p>Investing in custom app development is a significant investment for long-term success.</p>
                 </a> </article>
             </li>
-            <!-- Worth -->
+            
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
                 <h5>Web Sites</h5>
                 <p>Websites play an essential role in increasing the global reach of different companies.</p>
                 </a> </article>
             </li>
-            <!-- Worth -->
+           
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
                 <h5>Consultant</h5>
                 <p>The valuable consulting services of the experts help in delivering optimum IT solutions for the effective functioning of a business.</p>
                 </a> </article>
             </li>
-            <!-- Worth -->
+            
             <li class="col-md-4" data-content="#colio_c5">
               <article class="thumb"><a class="button colio-link" href="#"> <i class="fa fa-comments-o"></i>
                 <h5>Design</h5>
@@ -169,14 +168,14 @@
         </div>
       </div>
       
-      <!-- Analytics Tab Open -->
+     
       <div id="colio_c1" class="colio-content">
         <div class="main">
           <div class="container">
             <div class="inside-colio">
               <div class="row">
                 <div class="col-md-8"> 
-                  <!-- Heading -->
+                  
                   <div class="heading text-left margin-bottom-40">
                     <h4>Analytics</h4>
                   </div>
@@ -193,7 +192,7 @@
         </div>
       </div>
       
-      <!-- Storage Tab Open -->
+     
       <div id="colio_c2" class="colio-content">
         <div class="main">
           <div class="container">
@@ -201,7 +200,7 @@
               <div class="row">
                 <div class="col-md-4 text-left"> <img class="img-responsive" src="images/ipad.png" alt=""> </div>
                 <div class="col-md-8"> 
-                  <!-- Heading -->
+                  
                   <div class="heading text-left margin-bottom-40">
                     <h4>Storage</h4>
                   </div>
@@ -217,14 +216,14 @@
         </div>
       </div>
       
-      <!-- Security Tab Open -->
+     
       <div id="colio_c3" class="colio-content">
         <div class="main">
           <div class="container">
             <div class="inside-colio">
               <div class="row">
                 <div class="col-md-8"> 
-                  <!-- Heading -->
+                  
                   <div class="heading text-left margin-bottom-40">
                     <h4>Security</h4>
                   </div>
@@ -241,14 +240,14 @@
         </div>
       </div>
       
-      <!-- Storage Tab Open -->
+      
       <div id="colio_c4" class="colio-content">
         <div class="main">
           <div class="container">
             <div class="inside-colio">
               <div class="row">
                 <div class="col-md-8"> 
-                  <!-- Heading -->
+                 
                   <div class="heading text-left margin-bottom-40">
                     <h4>Worth</h4>
                   </div>
@@ -265,7 +264,7 @@
         </div>
       </div>
       
-      <!-- Security Tab Open -->
+     
       <div id="colio_c5" class="colio-content">
         <div class="main">
           <div class="container">
@@ -273,7 +272,7 @@
               <div class="row">
                 <div class="col-md-4 text-left"> <img class="img-responsive" src="images/ipad.png" alt=""> </div>
                 <div class="col-md-8"> 
-                  <!-- Heading -->
+                 
                   <div class="heading text-left margin-bottom-40">
                     <h4>Dialogue</h4>
                   </div>
@@ -288,14 +287,14 @@
           </div>
         </div>
       </div>
-      <!-- Security Tab Open -->
+     
       <div id="colio_c6" class="colio-content">
         <div class="main">
           <div class="container">
             <div class="inside-colio">
               <div class="row">
                 <div class="col-md-8"> 
-                  <!-- Heading -->
+                  
                   <div class="heading text-left margin-bottom-40">
                     <h4>Direction</h4>
                   </div>
@@ -311,7 +310,11 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
+    <?php
+    include('service.php');
+    echo $ser;
+    ?>
     
     <!-- Portfolio -->
     <section class="portfolio light-gray-bg padding-top-70 padding-bottom-20">
@@ -610,12 +613,12 @@
     </section>
   </div>
   
-  <!-- FOOTER -->
+  <!-- FOOTER
   <footer>
     <div class="container">
       <div class="row"> 
         
-        <!-- ABOUT -->
+       
         <div class="col-md-3"> <img src="images/logo-footer.png" alt="" >
           <div class="about-foot">
             <ul>
@@ -632,7 +635,7 @@
           </div>
         </div>
         
-        <!-- Photostream -->
+        
         <div class="col-md-3">
           <h6>Photostream</h6>
           <ul class="photo-steam">
@@ -645,7 +648,7 @@
           </ul>
         </div>
         
-        <!-- Categories -->
+        
         <div class="col-md-3">
           <h6>Categories</h6>
           <ul class="tags">
@@ -662,7 +665,14 @@
         </div>
       </div>
     </div>
-  </footer>
+  </footer>-->
+
+  <?php
+  include('footer.php');
+  echo $foot;
+  ?>
+
+  
   
   <!-- RIGHTS -->
   <div class="rights">

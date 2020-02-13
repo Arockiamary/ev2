@@ -5,7 +5,7 @@ $foot=' <!-- FOOTER -->
       <div class="row"> 
         
         <!-- ABOUT -->
-        <div class="col-md-3"> <img src="images/logo-footer.png" alt="" >
+        <div class="col-md-4"> <img src="images/logo-footer.png" alt="" >
           <div class="about-foot">
             <ul>
               <li>
@@ -21,21 +21,10 @@ $foot=' <!-- FOOTER -->
           </div>
         </div>
         
-        <!-- Twitter Feed -->
-        <div class="col-md-3">
-          <h6>Twitter Feed</h6>
-          <ul class="tweet">
-            <li>
-              <p>A Guide to Better Brainstorming <a href="#." class="primary-color">http://enva.to/nfNrz</a> by @jeff_haden </p>
-              <span>May 22, 2014</span> </li>
-            <li>
-              <p>Are you a student? You only have 48 hours left to grab a full year on Tuts+ for just $45! Dont miss out. <a href="#." class="primary-color">http://ow.ly/McvuJ</a> </p>
-              <span>May 22, 2014</span> </li>
-          </ul>
-        </div>
+        
         
         <!-- Photostream -->
-        <div class="col-md-3">
+        <div class="col-md-4">
           <h6>Photostream</h6>
           <ul class="photo-steam">
             <li><a href="#."><img src="images/photo-img-1.jpg" alt="" ></a></li>
@@ -48,7 +37,7 @@ $foot=' <!-- FOOTER -->
         </div>
         
         <!-- Categories -->
-        <div class="col-md-3">
+        <div class="col-md-4">
           <h6>Categories</h6>
           <ul class="tags">
             <li><a href="#.">User Experience</a></li>
