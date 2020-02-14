@@ -360,7 +360,7 @@
             <!-- Hover -->
             <div class="over-detail"> 
               <!-- Link -->
-              <div class="top-detail"> <a href="ajax-work/project1.html" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-1.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
+              <div class="top-detail"> <a href="ajax-work/project1.php" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-1.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
               <!-- TITTLE HEADING -->
               <div class="bottom-detail">
                 <h3>Manage Service Provider</h3>
@@ -375,7 +375,7 @@
             <!-- Hover -->
             <div class="over-detail"> 
               <!-- Link -->
-              <div class="top-detail"> <a href="ajax-work/project2.html" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-2.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
+              <div class="top-detail"> <a href="ajax-work/project2.php" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-2.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
               <!-- TITTLE HEADING -->
               <div class="bottom-detail">
                 <h3>Cloud Migration</h3>
@@ -390,7 +390,7 @@
             <!-- Hover -->
             <div class="over-detail"> 
               <!-- Link -->
-              <div class="top-detail"> <a href="ajax-work/project3.html" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-3.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
+              <div class="top-detail"> <a href="ajax-work/project3.php" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-3.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
               <!-- TITTLE HEADING -->
               <div class="bottom-detail">
                 <h3>Salesforces</h3>
@@ -405,7 +405,7 @@
             <!-- Hover -->
             <div class="over-detail"> 
               <!-- Link -->
-              <div class="top-detail"> <a href="ajax-work/project4.html" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-4.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
+              <div class="top-detail"> <a href="ajax-work/project4.php" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-4.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
               <!-- TITTLE HEADING -->
               <div class="bottom-detail">
                 <h3>Mobile Application</h3>
@@ -420,7 +420,7 @@
             <!-- Hover -->
             <div class="over-detail"> 
               <!-- Link -->
-              <div class="top-detail"> <a href="ajax-work/project5.html" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-5.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
+              <div class="top-detail"> <a href="ajax-work/project5.php" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-5.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
               <!-- TITTLE HEADING -->
               <div class="bottom-detail">
                 <h3>IoT</h3>
@@ -435,7 +435,7 @@
             <!-- Hover -->
             <div class="over-detail"> 
               <!-- Link -->
-              <div class="top-detail"> <a href="ajax-work/project6.html" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-6.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
+              <div class="top-detail"> <a href="ajax-work/project6.php" class="cbp-singlePage"><i class="fa fa-link"></i> </a> <a href="images/portfolio/img-6.jpg" class="cbp-lightbox" data-title=""><i class="icon-magnifier"></i></a> </div>
               <!-- TITTLE HEADING -->
               <div class="bottom-detail">
                 <h3>Custom App Development</h3>
@@ -447,7 +447,7 @@
       
       <!-- LOAD MORE -->
       <div class="text-center margin-top-50 margin-bottom-50 animate fadeInUp" data-wow-delay="0.4s">
-        <div id="ajax-loadMore"> <a href="ajax-work/loadMore1.html" class="cbp-l-loadMore-link btn btn-1" rel="nofollow"> <span class="cbp-l-loadMore-defaultText">View Full Portfolio <i class="fa fa-caret-right"></i></span> <span class="cbp-l-loadMore-loadingText">LOADING... <i class="fa fa-caret-down"></i></span> <span class="cbp-l-loadMore-noMoreLoading">NO MORE WORKS <i class="fa fa-caret-up"></i></span></a> </div>
+        <div id="ajax-loadMore"> <a href="ajax-work/loadMore1.php" clphpass="cbp-l-loadMore-link btn btn-1" rel="nofollow"> <span class="cbp-l-loadMore-defaultText">View Full Portfolio <i class="fa fa-caret-right"></i></span> <span class="cbp-l-loadMore-loadingText">LOADING... <i class="fa fa-caret-down"></i></span> <span class="cbp-l-loadMore-noMoreLoading">NO MORE WORKS <i class="fa fa-caret-up"></i></span></a> </div>
       </div>
     </section>
     
